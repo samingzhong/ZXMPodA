@@ -1,0 +1,16 @@
+PODS:
+  - ZXMPodA (0.1.0)
+
+DEPENDENCIES:
+  - ZXMPodA (from `../`)
+
+EXTERNAL SOURCES:
+  ZXMPodA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZXMPodA: fa2f99e5893cc28c4caa92377c52edcc17bec044
+
+PODFILE CHECKSUM: 5f02a40fef46132d379eba29289b6b97df6ab1e2
+
+COCOAPODS: 1.11.3

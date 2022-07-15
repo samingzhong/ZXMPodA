@@ -1,0 +1,6 @@
+framework module ZXMPodA {
+  umbrella header "ZXMPodA-umbrella.h"
+
+  export *
+  module * { export * }
+}
